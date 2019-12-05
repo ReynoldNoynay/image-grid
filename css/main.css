@@ -32,8 +32,11 @@ img {
   float: left;
 }
 
+
 @media only screen and (min-width: 25em) {
 
+section img {
+  width: 50%;
 }
 
 @media only screen and (min-width: 38em) {
